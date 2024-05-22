@@ -18,7 +18,7 @@
 }
 
 .menu-list {
-  margin-block-start: 1rem;
+  margin-block-start: 3rem;
   display: grid;
   grid-template-columns: 1fr;
   gap: 1rem;
